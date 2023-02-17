@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=andrewwasielewski&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=andrewwasielewski&show_icons=true&count_private=true)
